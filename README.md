@@ -5,27 +5,30 @@ This project focuses on analysing the performance and trends of Vrinda Store thr
 **Key Areas of Analysis:**
 
 1. Orders vs Sales:
+   
 •	Analysing the relationship between the total number of orders and the generated sales value.
+
 •	Identifying trends where high order volumes may not always correlate with high sales, and vice versa.
+
 •	Exploring average order values to understand fluctuations in sales despite consistent order volume.
 
-2. Gender-Based Analysis:
+3. Gender-Based Analysis:
 •	Comparing sales and order volumes based on gender to assess how men and women contribute to the store’s revenue.
 •	Identifying specific spending behaviours and trends related to gender.
 
-3. Demographic Segmentation (Age vs Gender):
+4. Demographic Segmentation (Age vs Gender):
 •	Segmenting the customer base by age group and gender to uncover specific patterns in purchasing behaviour.
 •	Analysing which combinations of age and gender contribute the most to sales and engagement.
 
-4. Order Channels:
+5. Order Channels:
 •	Exploring different sales channels (e.g., online, in-store) and analysing their contribution to total sales and order volume.
 •	Identifying customer preferences for specific channels and optimizing marketing efforts accordingly.
 
-5. Order Status:
+6. Order Status:
 •	Analyzing order status (e.g., completed, pending, cancelled, returned) to identify bottlenecks and potential issues in the order fulfilment process.
 •	Evaluating the impact of order status on sales and customer satisfaction.
 
-6. Top 10 States by Total Sales:
+7. Top 10 States by Total Sales:
 •	Identifying the top 10 states contributing to total sales and analysing regional patterns.
 •	Understanding which states are driving revenue and which regions may require targeted marketing strategies or sales improvements.
 
