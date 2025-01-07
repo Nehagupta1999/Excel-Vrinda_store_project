@@ -1,7 +1,5 @@
 # Excel-Vrinda_Store_Project
 
-# Excel-Vrinda_Store_Project
-
 This project focuses on analyzing the performance and trends of Vrinda Store by evaluating key factors such as sales, order volumes, demographics (gender, age), order channels, and order statuses. Using Microsoft Excel, actionable insights are derived to optimize marketing strategies, improve store performance, and enhance overall customer satisfaction.
 
 ### **Key Areas of Analysis:**
